@@ -105,11 +105,11 @@ const SubNavbar = () => {
               {/* Contenido del desplegable de Reportes */}
               <ul className='flex flex-col'>
                 <li className='flex flex-col w-[200px]'>
-                  <a href='' className='reportes'>Orientacion</a>
-                  <a href="" className='reportes'>Preinscripcion a propuestas</a>
-                  <a href="" className='reportes'>Solicitas Certificacion</a>
-                  <a href="" className='reportes'>Reaccionar Optativas</a>
-                  <a href="" className='reportes'>Convocatorias a becas</a>
+                  <Link to='/Orientacion' className='reportes'>Orientacion</Link>
+                  <Link to='/PreinscripcionPropuestas' className='reportes'>Preinscripcion a propuestas</Link>
+                  <Link to='/SolicitarCertificacion' className='reportes'>Solicitar Certificacion</Link>
+                  <Link to='/ReaccionarOptativas' className='reportes'>Reaccionar Optativas</Link>
+                  <Link to='/ConvocatoriaBecas' className='reportes'>Convocatorias a becas</Link>
                 </li>
               </ul>
             </div>
