@@ -13,7 +13,7 @@ const Navbar = () => {
         <div className='my-4'>
             <div className=' flex'>
 
-                <div className='mx-4 flex'>
+                <div className='mx- flex'>
                     <img src={message} alt="mensaje" className='w-[20px] mx-2' />
                     <p className='bg-gray-400 px-3 rounded text-white font-semibold'>0</p>
                 </div>
