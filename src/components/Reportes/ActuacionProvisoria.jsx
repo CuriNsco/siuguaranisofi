@@ -1,8 +1,13 @@
 import React from 'react'
+import Navbar from "../../components/Navbar.jsx";
+import SubNavbar from "../../components/SubNavbar.jsx";
 
 const ActuacionProvisoria = () => {
   return (
-    <div>ActuacionProvisoria</div>
+    <div>
+      <Navbar/>
+      <SubNavbar/>
+    </div>
   )
 }
 

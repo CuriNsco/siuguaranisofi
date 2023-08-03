@@ -1,8 +1,11 @@
 import React from 'react'
+import Navbar from "../../components/Navbar.jsx";
+import SubNavbar from "../../components/SubNavbar.jsx";
 
 const CronogramaEvaluaciones = () => {
   return (
-    <div>CronogramaEvaluaciones</div>
+    <div><Navbar/>
+    <SubNavbar/></div>
   )
 }
 
