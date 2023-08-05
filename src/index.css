@@ -9,3 +9,11 @@
 .reportes{
     @apply flex text-[14px] text-gray-500  hover:bg-[#0088cc] hover:text-white cursor-pointer py-1 px-2 
 }
+
+.datos{
+    @apply w-[433px] rounded py-2 px-2
+}
+
+.falsoinput{
+    @apply bg-[#eeeeee] border-2 border-[#cccccc] shadow-inner px-2 w-[220px] h-[30px] rounded 
+}

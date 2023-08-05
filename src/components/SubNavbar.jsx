@@ -108,7 +108,7 @@ const SubNavbar = () => {
                   <Link to='/Orientacion' className='reportes'>Orientacion</Link>
                   <Link to='/PreinscripcionPropuestas' className='reportes'>Preinscripcion a propuestas</Link>
                   <Link to='/SolicitarCertificacion' className='reportes'>Solicitar Certificacion</Link>
-                  <Link to='/ReaccionarOptativas' className='reportes'>Reaccionar Optativas</Link>
+                  <Link to='/ReaccionarOptativas' className='reportes'>Reasignar Optativas</Link>
                   <Link to='/ConvocatoriaBecas' className='reportes'>Convocatorias a becas</Link>
                 </li>
               </ul>
