@@ -15,7 +15,7 @@ const EncuestasRespondidas = () => {
 
       <div className='bg-[#fcf8e3] border-2 border-[#fbeed5] text-center py-2 mt-2'>
                 <p className='font-bold text-[#c09853]'>
-                Todas las encuestas estan respondidas en tiempo y forma.
+                Todas las encuestas están respondidas.
                 </p>
             </div>
     </div>

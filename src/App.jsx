@@ -6,7 +6,7 @@ export default function App() {
     <div>
     <Navbar/>
     <SubNavbar/>
-    <div className="mx-60">
+    <div className="mx-80">
 
       <div>
           <h1 className="text-[#0088cc] font-bold text-2xl ">Bienvenido SOFÍA ANDREA ALFONSO</h1>
@@ -17,7 +17,7 @@ export default function App() {
         <div className="flex justify-between">
           <h2 className="text-[#8d8d8d] font-bold text-xl py-2 ">Períodos lectivos</h2>
 
-          <div className=" mx-96 flex items-center">
+          <div className=" mr-[250px] flex items-center">
             <h2 className="text-[#8d8d8d] font-bold text-xl">Encuestas Pendientes</h2>
             </div>
         </div>
@@ -29,7 +29,7 @@ export default function App() {
 
             <div className=" px-12 flex justify-between">
               <ol>
-                <p className="font-semibold">Tipo: <span className="font-light">cuatrimestre</span></p>
+                <p className="font-semibold">Tipo: <span className="font-light">Anual</span></p>
                 <p className="font-semibold flex flex-col">Fechas del período lectivo:
                   <span className="font-semibold px-8">
                   Inicio: <span className="font-light">01/03/2023</span>
@@ -47,7 +47,7 @@ export default function App() {
                   </span>
                 </p>
               </ol>
-              <div className="bg-yellow-100 mx-[160px] text-center py-2 px-32 border-2 h-[50px] flex items-center ">
+              <div className="bg-yellow-100 text-center py-2 px-32 border-2 h-[50px] flex items-center ">
                 <p className="flex">
               No hay encuestas pendientes para completar
               </p>
@@ -64,7 +64,7 @@ export default function App() {
 
             <div className=" px-12">
               <ol>
-                <p className="font-semibold">Tipo: <span className="font-light">cuatrimestre</span></p>
+                <p className="font-semibold">Tipo: <span className="font-light">Anual</span></p>
                 <p className="font-semibold flex flex-col">Fechas del período lectivo:
                   <span className="font-semibold px-8">
                   Inicio: <span className="font-light">20/03/2023</span>

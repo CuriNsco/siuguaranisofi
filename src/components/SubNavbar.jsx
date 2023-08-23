@@ -58,9 +58,7 @@ const SubNavbar = () => {
                     <Link to='/ActuacionProvisoria' className='reportes'>Actuacion provisoria</Link>
                     <Link to='/CronogramaEvaluaciones' className='reportes'>Cronograma de Evaluaciones</Link>
                     <Link to='/HistoriaAcademica' className='reportes'>Historia Academica</Link>
-                    <Link to='/Inacistencias' className='reportes'>Inacistencias</Link>
-                    <Link to='/MisInscripciones' className='reportes'>Mis Inscripciones</Link>
-                    <Link to='/OfertaComisiones' className='reportes'>Oferta de comisiones</Link>
+                    <Link to='/Inacistencias' className='reportes'>Inasistencias</Link>
                     <Link to='/PlanEstudios' className='reportes'>Plan de estudios</Link>
                     <Link to='/SeguimientoTesis' className='reportes'>Seguimiento de tesis</Link>
                     <Link to='/PromedioAvance' className='reportes'>Promedio y avance de carrera</Link>

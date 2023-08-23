@@ -8,7 +8,7 @@ const InscripcionExamenes = () => {
   return (
     <div> <div><Navbar/>
     <SubNavbar/>
-    <div className='mx-60'>
+    <div className='mx-80'>
     <div>
           <h1 className="text-[#0088cc] font-bold text-2xl ">Inscripción a exámenes</h1>
           <div className=" border-t-gray-100 border"/>

@@ -1,5 +1,6 @@
 import React from 'react'
 import {logo, user, message} from '../assets/index'
+import { Link } from 'react-router-dom'
 
 const Navbar = () => {
   return (
@@ -7,7 +8,7 @@ const Navbar = () => {
         <div className=' flex justify-between mx-32'>
 
         <div className='flex items-center'>
-           <img src={logo} alt='logo' className=' w-[270px] h-[58px] my-4'/>
+          <Link to='/' ><img src={logo} alt='logo' className=' w-[270px] h-[58px] my-4'/></Link> 
         </div>
         
         <div className='my-4'>

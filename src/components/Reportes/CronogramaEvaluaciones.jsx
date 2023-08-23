@@ -14,7 +14,7 @@ const CronogramaEvaluaciones = () => {
 
       <div className='bg-[#fcf8e3] border-2 border-[#fbeed5] text-center py-2 mt-2'>
                 <p className='font-bold text-[#c09853]'>
-                No se encontraon evaluaciones
+                No se encontraron evaluaciones
                 </p>
             </div>
     </div>

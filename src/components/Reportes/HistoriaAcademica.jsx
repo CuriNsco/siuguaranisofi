@@ -39,10 +39,10 @@ const HistoriaAcademica = () => {
         </div>
         <div className='my-2 px-2'>
             <p className='my-2'>
-            <span className='font-bold'>Regularidad</span>- RG (Regularizó) Aprobado 10/10/2019
+            <span className='font-bold'>Regularidad</span>- RG (Regularizó) Aprobado 10/10/2018
             </p>
             <p>
-            <span className='font-bold'>Promoción</span>- 7 (siete) Promocionado 10/10/2019
+            <span className='font-bold'>Promoción</span>- 7 (siete) Promocionado 10/10/2018
             </p>
         </div>
       </div>
@@ -56,10 +56,10 @@ const HistoriaAcademica = () => {
         </div>
         <div className='my-2 px-2'>
             <p className='my-2'>
-            <span className='font-bold'>Examen</span>- 7 (Siete) Aprobado 14/12/2020
+            <span className='font-bold'>Examen</span>- 7 (Siete) Aprobado 14/12/2019
             </p>
             <p>
-            <span className='font-bold'>Regularidad</span>- Aprobado 24/11/2020
+            <span className='font-bold'>Regularidad</span>- Aprobado 24/11/2019
             </p>
         </div>
       </div>
@@ -74,10 +74,10 @@ const HistoriaAcademica = () => {
         </div>
         <div className='my-2 px-2'>
             <p className='my-2'>
-            <span className='font-bold'>Promoción</span>- 10 (diez) Promocionado 17/11/2021
+            <span className='font-bold'>Promoción</span>- 10 (diez) Promocionado 17/11/2020
             </p>
             <p>
-            <span className='font-bold'>Regularidad</span>- Aprobado 17/11/2021
+            <span className='font-bold'>Regularidad</span>- Aprobado 17/11/2020
             </p>
         </div>
       </div>
@@ -91,13 +91,10 @@ const HistoriaAcademica = () => {
         </div>
         <div className='my-2 px-2'>
             <p className='my-2'>
-            <span className='font-bold'>Examen</span>- 6 (Seis) Aprobado 13/12/2021
-            </p>
-            <p className='my-2'>
-            <span className='font-bold'>Examen</span>- Ausente 29/11/202
+            <span className='font-bold'>Examen</span>- 6 (Seis) Aprobado 13/12/2020
             </p>
             <p>
-            <span className='font-bold'>Regularidad</span>- Aprobado 04/11/2021
+            <span className='font-bold'>Regularidad</span>- Aprobado 04/11/2020
             </p>
         </div>
       </div>
@@ -113,10 +110,10 @@ const HistoriaAcademica = () => {
         </div>
         <div className='my-2 px-2'>
             <p className='my-2'>
-            <span className='font-bold'>Promoción</span>- 8 (ocho) Promocionado 23/11/2022
+            <span className='font-bold'>Promoción</span>- 8 (ocho) Promocionado 23/11/2021
             </p>
             <p>
-            <span className='font-bold'>Regularidad</span>- RG (Regularizó) Aprobado 23/11/2022
+            <span className='font-bold'>Regularidad</span>- RG (Regularizó) Aprobado 23/11/2021
             </p>
         </div>
       </div>
@@ -131,13 +128,13 @@ const HistoriaAcademica = () => {
         </div>
         <div className='my-2 px-2'>
             <p className='my-2'>
-            <span className='font-bold'>Examen</span>- 6 (Seis) Aprobado 11/12/2019
+            <span className='font-bold'>Examen</span>- 6 (Seis) Aprobado 11/12/2018
             </p>
             <p className='my-2'>
-            <span className='font-bold'>Examen</span>- 2 (Dos) Reprobado 27/11/2019
+            <span className='font-bold'>Examen</span>- 2 (Dos) Reprobado 27/11/2018
             </p>
             <p>
-            <span className='font-bold'>Regularidad</span>- RG (Regularizó) Aprobado 10/11/2019
+            <span className='font-bold'>Regularidad</span>- RG (Regularizó) Aprobado 10/11/2018
             </p>
         </div>
       </div>
@@ -153,16 +150,10 @@ const HistoriaAcademica = () => {
         </div>
         <div className='my-2 px-2'>
             <p className='my-2'>
-            <span className='font-bold'>Examen</span>- 4 (Cuatro) Aprobado 20/12/2021
-            </p>
-            <p className='my-2'>
-            <span className='font-bold'>Examen</span>- 2 (Dos) Reprobado 01/12/2021
-            </p>
-            <p className='my-2'>
-            <span className='font-bold'>Examen</span>- Ausente 16/12/2020
+            <span className='font-bold'>Examen</span>- 4 (Cuatro) Aprobado 20/12/2019
             </p>
             <p>
-            <span className='font-bold'>Regularidad</span>- RG (Regularizó) Aprobado 27/11/2020
+            <span className='font-bold'>Regularidad</span>- RG (Regularizó) Aprobado 27/11/2019
             </p>
         </div>
       </div>
@@ -176,13 +167,10 @@ const HistoriaAcademica = () => {
         </div>
         <div className='my-2 px-2'>
             <p className='my-2'>
-            <span className='font-bold'>Examen</span>- Ausente 27/07/2023
-            </p>
-            <p className='my-2'>
-            <span className='font-bold'>Examen</span>- Ausente 01/12/2022
+            <span className='font-bold'>Examen</span>- 7 (Siete) Aprobado 01/12/2020
             </p>
             <p>
-            <span className='font-bold'>Regularidad</span>- RG (Regularizó) Aprobado 18/11/2021
+            <span className='font-bold'>Regularidad</span>- RG (Regularizó) Aprobado 18/11/2020
             </p>
         </div>
       </div>
@@ -196,10 +184,10 @@ const HistoriaAcademica = () => {
         </div>
         <div className='my-2 px-2'>
             <p className='my-2'>
-            <span className='font-bold'>Promoción</span>- 8 (ocho) Promocionado 27/10/2022 
+            <span className='font-bold'>Promoción</span>- 8 (ocho) Promocionado 27/10/2021
             </p>
             <p>
-            <span className='font-bold'>Regularidad</span>- RG (Regularizó) Aprobado 27/10/2022
+            <span className='font-bold'>Regularidad</span>- RG (Regularizó) Aprobado 27/10/2021
             </p>
         </div>
       </div>
@@ -241,13 +229,10 @@ const HistoriaAcademica = () => {
         </div>
         <div className='my-2 px-2'>
             <p className='my-2'>
-            <span className='font-bold'>Examen</span>- 7 (Siete) Aprobado 10/12/2020
+            <span className='font-bold'>Examen</span>- 7 (Siete) Aprobado 10/12/2019
             </p>
             <p className='my-2'>
-            <span className='font-bold'>Regularidad</span>- RG (Regularizó) Aprobado 05/11/2020
-            </p>
-            <p>
-            <span className='font-bold'>Examen</span>- 2 (Dos) Reprobado 05/12/2019 
+            <span className='font-bold'>Regularidad</span>- RG (Regularizó) Aprobado 05/11/2019
             </p>
         </div>
       </div>
@@ -262,13 +247,10 @@ const HistoriaAcademica = () => {
         </div>
         <div className='my-2 px-2'>
             <p className='my-2'>
-            <span className='font-bold'>Examen</span>- 7 (Siete) Aprobado 03/03/2023
+            <span className='font-bold'>Examen</span>- 7 (Siete) Aprobado 13/12/2020
             </p>
             <p className='my-2'>
-            <span className='font-bold'>Regularidad</span>- Aprobado 11/11/2022
-            </p>
-            <p>
-            <span className='font-bold'>Regularidad</span>- Reprobado 12/11/2021
+            <span className='font-bold'>Regularidad</span>- Aprobado 11/11/2020
             </p>
         </div>
       </div>
@@ -282,10 +264,10 @@ const HistoriaAcademica = () => {
         </div>
         <div className='my-2 px-2'>
             <p className='my-2'>
-            <span className='font-bold'>Promoción</span>- 8 (Ocho) Promocionado 28/06/2023 
+            <span className='font-bold'>Promoción</span>- 8 (Ocho) Promocionado 28/06/2021 
             </p>
             <p>
-            <span className='font-bold'>Regularidad</span>- Aprobado 28/06/2023
+            <span className='font-bold'>Regularidad</span>- Aprobado 28/06/2021
             </p>
         </div>
       </div>
@@ -303,6 +285,22 @@ const HistoriaAcademica = () => {
         </div>
       </div>
 
+      <div className='my-4'>
+        <div className='bg-[#3a97ad] rounded'>
+            <h1 className='font-bold text-white px-2'>
+           GRAFICA ARQUITECTONICA (13-00106)
+            </h1>
+        </div>
+        <div className='my-2 px-2'>
+            <p className='my-2'>
+            <span className='font-bold'>Promoción</span>- 7 (siete) Promocionado 21/11/2022
+            </p>
+            <p>
+            <span className='font-bold'>Regularidad</span>-RG (Regularizó) Aprobado 21/11/2022
+            </p>
+        </div>
+      </div>
+
 
 
       <div className='my-4'>
@@ -313,7 +311,7 @@ const HistoriaAcademica = () => {
         </div>
         <div className='my-2 px-2'>
             <p className='my-2'>
-            <span className='font-bold'>Examen</span>- 5 (Cinco) Aprobado 02/12/2019
+            <span className='font-bold'>Examen</span>- 5 (Cinco) Aprobado 02/12/2018
             </p>
             <p>
             <span className='font-bold'>Regularidad</span>-Aprobado 05/11/2018
@@ -330,10 +328,10 @@ const HistoriaAcademica = () => {
         </div>
         <div className='my-2 px-2'>
             <p className='my-2'>
-            <span className='font-bold'>Examen</span>- 5 (Cinco) Aprobado 02/12/2019 FIJARSE
+            <span className='font-bold'>Examen</span>- 5 (Cinco) Aprobado 16/12/2019 
             </p>
             <p>
-            <span className='font-bold'>Regularidad</span>-RG (Regularizó) Aprobado 29/10/2020 FIJARSE
+            <span className='font-bold'>Regularidad</span>-RG (Regularizó) Aprobado 29/10/2019 
             </p>
         </div>
       </div>
@@ -347,10 +345,10 @@ const HistoriaAcademica = () => {
         </div>
         <div className='my-2 px-2'>
             <p className='my-2'>
-            <span className='font-bold'>Examen</span>- Examen - Ausente 28/07/2023  FIJARSEEEE
+            <span className='font-bold'>Examen</span>- 6 (Seis) Aprobado  13/12/2020 
             </p>
             <p>
-            <span className='font-bold'>Regularidad</span>-Aprobado 05/11/2021 FIJARSEEE
+            <span className='font-bold'>Regularidad</span>-Aprobado 05/11/2020 
             </p>
         </div>
       </div>
@@ -365,10 +363,10 @@ const HistoriaAcademica = () => {
         </div>
         <div className='my-2 px-2'>
             <p className='my-2'>
-            <span className='font-bold'>Examen</span>- 4 (Cuatro) Aprobado 03/12/2021
+            <span className='font-bold'>Examen</span>- 4 (Cuatro) Aprobado 03/12/2019
             </p>
             <p>
-            <span className='font-bold'>Regularidad</span>-AB (Abandonó) Reprobado 30/10/2020 FIJARSEEE
+            <span className='font-bold'>Regularidad</span>-Aprobado 30/10/2019 
             </p>
         </div>
       </div>
@@ -413,10 +411,10 @@ const HistoriaAcademica = () => {
         </div>
         <div className='my-2 px-2'>
             <p className='my-2'>
-            <span className='font-bold'>Promoción</span>- 8 (Ocho) Promocionado 04/11/2020
+            <span className='font-bold'>Promoción</span>- 8 (Ocho) Promocionado 04/11/2019
             </p>
             <p>
-            <span className='font-bold'>Regularidad</span>- RG (Regularizó) Aprobado 04/11/2020
+            <span className='font-bold'>Regularidad</span>- RG (Regularizó) Aprobado 04/11/2019
             </p>
         </div>
       </div>
@@ -430,10 +428,10 @@ const HistoriaAcademica = () => {
         </div>
         <div className='my-2 px-2'>
             <p className='my-2'>
-            <span className='font-bold'>Examen</span>- 8 (Ocho) Aprobado 12/12/2022
+            <span className='font-bold'>Examen</span>- 8 (Ocho) Aprobado 12/12/2020
             </p>
             <p>
-            <span className='font-bold'>Regularidad</span>- Aprobado 28/06/2021
+            <span className='font-bold'>Regularidad</span>- Aprobado 28/06/2020
             </p>
         </div>
       </div>
@@ -492,10 +490,10 @@ const HistoriaAcademica = () => {
         </div>
         <div className='my-2 px-2'>
             <p className='my-2'>
-            <span className='font-bold'>Promoción</span>- 8 (Ocho) Promocionado 10/10/2018
+            <span className='font-bold'>Promoción</span>- 8 (Ocho) Promocionado 10/10/2017
             </p>
             <p>
-            <span className='font-bold'>Regularidad</span>- Aprobado 10/10/2018
+            <span className='font-bold'>Regularidad</span>- Aprobado 10/10/2017
             </p>
         </div>
       </div>
@@ -508,10 +506,10 @@ const HistoriaAcademica = () => {
         </div>
         <div className='my-2 px-2'>
             <p className='my-2'>
-            <span className='font-bold'>Examen</span>- 8 (Ocho) Aprobado 30/11/2021
+            <span className='font-bold'>Examen</span>- 8 (Ocho) Aprobado 30/11/2019
             </p>
             <p>
-            <span className='font-bold'>Regularidad</span>- Aprobado 08/11/2021
+            <span className='font-bold'>Regularidad</span>- Aprobado 08/11/2019
             </p>
         </div>
       </div>
@@ -524,10 +522,10 @@ const HistoriaAcademica = () => {
         </div>
         <div className='my-2 px-2'>
             <p className='my-2'>
-            <span className='font-bold'>Promoción</span>- 9 (nueve) Promocionado 12/10/2018
+            <span className='font-bold'>Promoción</span>- 9 (nueve) Promocionado 12/10/2017
             </p>
             <p>
-            <span className='font-bold'>Regularidad</span>- Aprobado 12/10/2018 
+            <span className='font-bold'>Regularidad</span>- Aprobado 12/10/2017 
             </p>
         </div>
       </div>
@@ -540,10 +538,10 @@ const HistoriaAcademica = () => {
         </div>
         <div className='my-2 px-2'>
             <p className='my-2'>
-            <span className='font-bold'>Promoción</span>- 9 (nueve) Promocionado 10/10/2019
+            <span className='font-bold'>Promoción</span>- 9 (nueve) Promocionado 10/10/2018
             </p>
             <p>
-            <span className='font-bold'>Regularidad</span>- Aprobado 10/10/2019
+            <span className='font-bold'>Regularidad</span>- Aprobado 10/10/2018
             </p>
         </div>
       </div>
@@ -557,10 +555,10 @@ const HistoriaAcademica = () => {
         </div>
         <div className='my-2 px-2'>
             <p className='my-2'>
-            <span className='font-bold'>Promoción</span>- 5 (cinco) Promocionado 05/10/2020
+            <span className='font-bold'>Promoción</span>- 5 (cinco) Promocionado 05/10/2019
             </p>
             <p>
-            <span className='font-bold'>Regularidad</span>- RG (Regularizó) Aprobado 05/10/2020
+            <span className='font-bold'>Regularidad</span>- RG (Regularizó) Aprobado 05/10/2019
             </p>
         </div>
       </div>
@@ -574,10 +572,10 @@ const HistoriaAcademica = () => {
         </div>
         <div className='my-2 px-2'>
             <p className='my-2'>
-            <span className='font-bold'>Promoción</span>-  A (Aprobado) Promocionado 05/07/2023
+            <span className='font-bold'>Promoción</span>-  A (Aprobado) Promocionado 05/07/2022
             </p>
             <p>
-            <span className='font-bold'>Regularidad</span>- RG (Regularizó) Aprobado 05/07/2023
+            <span className='font-bold'>Regularidad</span>- RG (Regularizó) Aprobado 05/07/2022
             </p>
         </div>
       </div>
@@ -590,8 +588,11 @@ const HistoriaAcademica = () => {
             </h1>
         </div>
         <div className='my-2 px-2'>
+        <p className='my-2'>
+            <span className='font-bold'>Examen</span>- 7 (Siete) Aprobado 03/12/2021
+            </p>
             <p className='my-2'>
-            <span className='font-bold'>Regularidad</span>-  RG (Regularizó) Aprobado 15/11/2022
+            <span className='font-bold'>Regularidad</span>-  RG (Regularizó) Aprobado 15/11/2021
             </p>
         </div>
       </div>
@@ -605,10 +606,10 @@ const HistoriaAcademica = () => {
         </div>
         <div className='my-2 px-2'>
             <p className='my-2'>
-            <span className='font-bold'>Promoción</span>-  7 (siete) Promocionado 10/10/2018
+            <span className='font-bold'>Promoción</span>-  7 (siete) Promocionado 20/10/2017
             </p>
             <p>
-            <span className='font-bold'>Regularidad</span>- Aprobado 10/10/2018
+            <span className='font-bold'>Regularidad</span>- Aprobado 20/10/2017
             </p>
         </div>
       </div>
@@ -638,7 +639,7 @@ const HistoriaAcademica = () => {
         </div>
         <div className='my-2 px-2'>
             <p className='my-2'>
-            <span className='font-bold'>Examen</span>- 5 (Cinco) Aprobado 11/12/2020
+            <span className='font-bold'>Examen</span>- 5 (Cinco) Aprobado 14/12/2018
             </p>
             <p>
             <span className='font-bold'>Regularidad</span>- Aprobado 10/10/2018
@@ -655,10 +656,26 @@ const HistoriaAcademica = () => {
         </div>
         <div className='my-2 px-2'>
             <p className='my-2'>
-            <span className='font-bold'>Examen</span>- 6 (Seis) Aprobado 29/11/2022
+            <span className='font-bold'>Examen</span>- 6 (Seis) Aprobado 29/11/2021
             </p>
             <p>
-            <span className='font-bold'>Regularidad</span>- RG (Regularizó) Aprobado 30/06/2022
+            <span className='font-bold'>Regularidad</span>- RG (Regularizó) Aprobado 30/06/2021
+            </p>
+        </div>
+      </div>
+
+      <div className='my-4'>
+        <div className='bg-[#3a97ad] rounded'>
+            <h1 className='font-bold text-white px-2'>
+            URBANISMO I (13-00035)
+            </h1>
+        </div>
+        <div className='my-2 px-2'>
+            <p className='my-2'>
+            <span className='font-bold'>Promoción</span>- 7 (siete) Promocionado 26/10/2020
+            </p>
+            <p>
+            <span className='font-bold'>Regularidad</span>-RG (Regularizó) Aprobado 26/10/2020
             </p>
         </div>
       </div>
@@ -671,10 +688,10 @@ const HistoriaAcademica = () => {
         </div>
         <div className='my-2 px-2'>
             <p className='my-2'>
-            <span className='font-bold'>Promoción</span>- 7 (siete) Promocionado 04/11/2022
+            <span className='font-bold'>Promoción</span>- 7 (siete) Promocionado 04/11/2021
             </p>
             <p>
-            <span className='font-bold'>Regularidad</span>-RG (Regularizó) Aprobado 04/11/2022
+            <span className='font-bold'>Regularidad</span>-RG (Regularizó) Aprobado 04/11/2021
             </p>
         </div>
       </div>
@@ -687,10 +704,7 @@ const HistoriaAcademica = () => {
         </div>
         <div className='my-2 px-2'>
             <p className='my-2'>
-            <span className='font-bold'>Promedio con aplazos:</span>5.74
-            </p>
-            <p>
-            <span className='font-bold'>Promedio sin aplazos:</span>6.88
+            <span className='font-bold'>Promedio total:</span> 6.10
             </p>
         </div>
       </div>
@@ -704,10 +718,7 @@ const HistoriaAcademica = () => {
         </div>
         <div className='my-2 px-2'>
             <p className='my-2'>
-            <span className='font-bold'>Promedio con aplazos:</span>5.48
-            </p>
-            <p>
-            <span className='font-bold'>Promedio sin aplazos:</span>6.44
+            <span className='font-bold'>Promedio total:</span> 6.10
             </p>
         </div>
       </div>
