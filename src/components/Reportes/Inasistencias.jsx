@@ -1,8 +1,8 @@
 import React from 'react'
-import Navbar from "../../components/Navbar.jsx";
-import SubNavbar from "../../components/SubNavbar.jsx";
+import Navbar from "../Navbar.jsx";
+import SubNavbar from "../SubNavbar.jsx";
 
-const Inacistencias = () => {
+const Inasistencias = () => {
   return (
     <div><Navbar/>
     <SubNavbar/>
@@ -22,4 +22,4 @@ const Inacistencias = () => {
   )
 }
 
-export default Inacistencias
+export default Inasistencias

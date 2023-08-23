@@ -13,7 +13,7 @@ import DatosPersonales from './components/DatosPersonales.jsx';
 import ActuacionProvisoria from './components/Reportes/ActuacionProvisoria.jsx';
 import CronogramaEvaluaciones from './components/Reportes/CronogramaEvaluaciones.jsx';
 import HistoriaAcademica from './components/Reportes/HistoriaAcademica.jsx';
-import Inacistencias from './components/Reportes/Inacistencias.jsx';
+import Inasistencias from './components/Reportes/Inasistencias.jsx';
 import MisInscripciones from './components/Reportes/MisInscripciones.jsx';
 import OfertaComisiones from './components/Reportes/OfertasComisiones.jsx';
 import PlanEstudios from './components/Reportes/PlanEstudios.jsx';
@@ -37,7 +37,7 @@ const router = createBrowserRouter([
     { path: "CronogramaEvaluaciones", element: <CronogramaEvaluaciones /> },
     { path: "DatosPersonales", element: <DatosPersonales /> },
     { path: "HistoriaAcademica", element: <HistoriaAcademica /> },
-    { path: "Inacistencias", element: <Inacistencias /> },
+    { path: "Inasistencias", element: <Inasistencias /> },
     { path: "InscripcionExamenes", element: <InscripcionExamenes /> },
     { path: "InscripcionMaterias", element: <InscripcionMaterias /> },
     { path: "MisInscripciones", element: <MisInscripciones /> },
